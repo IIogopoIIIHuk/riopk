@@ -33,10 +33,12 @@
 
 ### C4-модель
 Контейнерный уровень:
-![telegram-cloud-photo-size-2-5361545342639797689-y.jpg](..%2F..%2FLibrary%2FGroup%20Containers%2F6N38VWS5BX.ru.keepcoder.Telegram%2Fappstore%2Faccount-11855931800897444788%2Fpostbox%2Fmedia%2Ftelegram-cloud-photo-size-2-5361545342639797689-y.jpg)Иллюстрация и описание архитектура ПС
+![telegram-cloud-photo-size-2-5361545342639797689-y](https://github.com/user-attachments/assets/00b1a9b0-a61a-4495-8f49-4635850d19b9)
+Иллюстрация и описание архитектура ПС
 
 Компонентный уровень:
-![telegram-cloud-photo-size-2-5361545342639797690-y.jpg](..%2F..%2FLibrary%2FGroup%20Containers%2F6N38VWS5BX.ru.keepcoder.Telegram%2Fappstore%2Faccount-11855931800897444788%2Fpostbox%2Fmedia%2Ftelegram-cloud-photo-size-2-5361545342639797690-y.jpg)
+![Uploading telegram-cloud-photo-size-2-5361545342639797690-y.jpg…]()
+
 
 - Контроллер компаний (Company Controller) управление данными о компаниях (контактные сведения, история заказов, статус обслуживания)..
 - Контроллер стаистики (Statistic Controller) отвечает за создание и хранение статистики по услугам, необходимым компаниям.
