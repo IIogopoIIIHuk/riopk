@@ -37,7 +37,7 @@
 Иллюстрация и описание архитектура ПС
 
 Компонентный уровень:
-![Uploading telegram-cloud-photo-size-2-5361545342639797690-y.jpg…]()
+![telegram-cloud-photo-size-2-5361545342639797690-y](https://github.com/user-attachments/assets/7778f231-ba28-473d-a505-125f496d0ccc)
 
 
 - Контроллер компаний (Company Controller) управление данными о компаниях (контактные сведения, история заказов, статус обслуживания)..
